@@ -1,3 +1,2 @@
-logging:
-  level:
-    '[org.springframework.boot]': debug   
+custom:
+  message: Hello World
